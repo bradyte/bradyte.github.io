@@ -35,7 +35,11 @@ An EDID is purely a binary file but has a structured format as explained [here](
 
 This can be editted with a hex editor but I like to leverage tools that do the work for me. The best one I've found is the [Deltacast EDID Editor](https://www.deltacast.tv/products/free-software/e-edid-editor/).
 
+![Deltacast EDID Editor](deltacast_window.png)
+
 I modified the DTD 1 block because the first of the four blocks is intended to describe the display's preferred video timing. 
+
+I also removed references to any similar timing resolutions to ensure only one specific timing is chosen.
 
 TODO: add more info in what/how to modify
 
