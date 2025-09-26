@@ -1,11 +1,21 @@
-# Reference Info
-## Raspberry Pi 5
-[Rpi5 EDID in Firmware](https://bradyte.github.io/rpi5/rpi5_edid_firmware)  
-[Rpi5/Bookworm Camera Tips](https://bradyte.github.io/rpi5/camera_tips)  
+# bradyte
+[github](https://github.com/bradyte)
 
-## Raspberry Pi Pico
-[Pico Reference Documents](https://bradyte.github.io/rpi_pico/pico_reference_docs)  
+# helpful info
+## raspberry pi
+[rpi edid in firmware](https://bradyte.github.io/rpi5/rpi5_edid_firmware)  
+[rpi5/bookworm camera tips](https://bradyte.github.io/rpi5/camera_tips)  
 
-## GMSL
-[Datatype Reference](https://bradyte.github.io/gmsl/datatype_reference) 
+## raspberry pi pico
+[pico reference documents](https://bradyte.github.io/rpi_pico/pico_reference_docs)  
+
+## gmsl
+[datatype reference](https://bradyte.github.io/gmsl/datatype_reference) 
+[various helper scripts](https://github.com/bradyte/gmsl)
+
+## kicad
+### library info
+[kicad library](https://github.com/bradyte/kicad-library)
+
+# projects
 
