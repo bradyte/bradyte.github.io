@@ -10,7 +10,7 @@
 [pico reference documents](https://bradyte.github.io/rpi_pico/pico_reference_docs)  
 
 ## gmsl
-[datatype reference](https://bradyte.github.io/gmsl/datatype_reference) 
+[datatype reference](https://bradyte.github.io/gmsl/datatype_reference)  
 [various helper scripts](https://github.com/bradyte/gmsl)
 
 ## kicad
