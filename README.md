@@ -1,5 +1,4 @@
-# bradyte
-[github](https://github.com/bradyte)
+# _work in progress_
 
 # helpful info
 ## raspberry pi
