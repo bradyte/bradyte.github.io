@@ -17,4 +17,4 @@
 [kicad library](https://github.com/bradyte/kicad-library)
 
 # projects
-[OSH Park Info](https://github.com/projects/oshpark)
+[OSH Park Info](https://bradyte.github.io/projects/oshpark)
