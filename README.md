@@ -4,6 +4,7 @@
 ## raspberry pi
 [rpi edid in firmware](https://bradyte.github.io/rpi/rpi_bookworm_edid_firmware)  
 [rpi5/bookworm camera tips](https://bradyte.github.io/rpi/camera_tips)  
+[ssh key tutorial](https://austinsnerdythings.com/2021/04/02/ssh-key-tutorial/) external
 
 ## raspberry pi pico
 [pico reference documents](https://bradyte.github.io/rpi_pico/pico_reference_docs)  
