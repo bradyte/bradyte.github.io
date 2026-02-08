@@ -4,7 +4,7 @@
 ## raspberry pi
 [rpi edid in firmware](https://bradyte.github.io/rpi/rpi_bookworm_edid_firmware)  
 [rpi5/bookworm camera tips](https://bradyte.github.io/rpi/camera_tips)  
-[ssh key tutorial](https://austinsnerdythings.com/2021/04/02/ssh-key-tutorial/) external
+[ssh key tutorial](https://austinsnerdythings.com/2021/04/02/ssh-key-tutorial/) external  
 [Linux TSN in 2026 with CM4](https://bradyte.github.io/rpi/tsn/linux_tsn_cm4)
 
 ## raspberry pi pico
