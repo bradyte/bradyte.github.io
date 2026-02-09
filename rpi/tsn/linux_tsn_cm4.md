@@ -8,8 +8,8 @@ The two pillars of this setup are the Avnu Alliance [ libavtp repo](https://gith
 
 There are three main portions of this setup are:
 * [Hardware Configuration](https://bradyte.github.io/rpi/tsn/linux_tsn_hardware)
-* Kernel Configuration [add link]
-* Software Installation [add link]
+* [Kernel Configuration](https://bradyte.github.io/rpi/tsn/linux_tsn_cm4_kernel)
+* [Software Installation](https://bradyte.github.io/rpi/tsn/linux_tsn_software)
 
 Credit to:  
 TSN project for linux  
