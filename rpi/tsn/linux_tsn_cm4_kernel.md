@@ -6,7 +6,9 @@ As I was working through the Linux TSN documentation, I was trying to enable the
 
 TODO: get exact verbiage
 
-tom@raspberrypi: ~ $ Error: specified qdisc not found
+```shell 
+tom@raspberrypi:~ $ Error: specified qdisc not found
+```
 
 The previous qdisc MQPRIO worked no issue and the TSN documentation made it seem everything was installed. However after doing some digging and finding this [Raspberry Pi forum post](https://forums.raspberrypi.com/viewtopic.php?t=292448#p1767932) gave me a super quick way to check out the kernel configuration on my running system. Some quick Googling helped find the QoS options.
 
@@ -27,3 +29,5 @@ I navigated over the the Raspberry Pi [cross-compiling the kernel](https://www.r
 Walking through the cross-compile kernel instructions, I needed to enable the QoS features required by this setup.
 
 TODO: add config photo
+
+After cross-compiling and flashing onto the board, the configuration settings are confirmed set.

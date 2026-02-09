@@ -24,6 +24,14 @@ For more info, highly recommend these setups for a quick start to understanding 
 
 * [Nanosecond accurate PTP server (grandmaster) and client tutorial for Raspberry Pi](https://austinsnerdythings.com/2025/02/18/nanosecond-accurate-ptp-server-grandmaster-and-client-tutorial-for-raspberry-pi/)
 
+This intermediate success meant I could use my Pi 5 for PTP so I proceeded to enable the queuing disciplines (qdiscs) but then my controller proceeding to fuss again.
+
+TODO: get exact verbiage
+
+```shell 
+tom@raspberrypi:~ $ RNETLINK answers: Operation not supported
+```
+
 With the native Pi hardware not supporting what is needed, I took some time to slow down and read the TSN documentation which had a suggested controller right in the beginning...
 
 > This tutorial has been validated on two desktop machines with **Intel(R) Ethernet Controller I210** connected back-to-back and Linux kernel version 4.19.
