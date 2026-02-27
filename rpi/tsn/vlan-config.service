@@ -1,0 +1,13 @@
+[Unit]
+Description=configure VLAN network on eth1
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/bin/sh -c 'sudo ip link add link eth1 name eth1.5 type vlan id 5 \
+        egress-qos-map 2:2 3:3 ; \
+        sudo ip link set eth1.5 up'
+
+[Install]
+WantedBy=multi-user.target
